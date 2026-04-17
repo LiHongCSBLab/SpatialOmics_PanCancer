@@ -4,6 +4,7 @@ library(aplot)
 library(ComplexHeatmap)
 
 source('https://github.com/KaWingLee9/in_house_tools/blob/main/visulization/custom_fun.R')
+# Usage: https://github.com/KaWingLee9/in_house_tools/tree/main/meta_analysis#rank-combination
 source('https://github.com/KaWingLee9/in_house_tools/blob/main/meta_analysis/custom_fun.R')
 
 # LR interaction score of spots
